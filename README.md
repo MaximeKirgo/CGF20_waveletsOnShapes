@@ -68,7 +68,7 @@ Comments
 - The script ```ex00_partial_shape_matching.m``` shows how to perform partial shape matching using our method.
 - The script ```ex01_reproduce_fig07.m``` shows how to compute the data used to reproduce the Fig.7 of our paper.
 - The script ```ex02_reproduce_fig07_plot.m``` plots the Fig.7 of our paper using the data produced with the script ```ex01_reproduce_fig07.m```.
-If you have any question/comment about this work, please feel free to contact us: maximekirgo@gmail.com.
+- If you have any question/comment about this work, please feel free to contact us: maximekirgo@gmail.com.
 
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
