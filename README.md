@@ -71,7 +71,7 @@ Comments
 - If you have any question/comment about this work, please feel free to contact us: maximekirgo@gmail.com.
 
 
-Acknowledgements
+Acknowledgments
 ----------------
 This work was funded by EDF R&D and the ANRT as part of the CIFRE grant 2019/0433.
 The ```+MESH``` module was developped by [Jing Ren](https://github.com/llorz).
