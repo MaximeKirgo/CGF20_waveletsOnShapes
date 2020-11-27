@@ -73,9 +73,9 @@ Comments
 
 Acknowledgments
 ----------------
-This work was funded by EDF R&D and the ANRT as part of the CIFRE grant 2019/0433.
-The ```+MESH``` module was developped by [Jing Ren](https://github.com/llorz).
-The ```bc``` and ```bd``` modules were developped by [Emanuele Rodolà](https://sites.google.com/site/erodola/).
+- This work was funded by EDF R&D and the ANRT as part of the CIFRE grant 2019/0433.
+- The ```+MESH``` module was developped by [Jing Ren](https://github.com/llorz).
+- The ```bc``` and ```bd``` modules were developped by [Emanuele Rodolà](https://sites.google.com/site/erodola/).
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
