@@ -1,5 +1,5 @@
 # CGF20_waveletsOnShapes
-This repository contains the code for the paper "Wavelet-based Heat Kernel Derivatives: towards Informative Localized Shape Analysis" by Maxime Kirgo, Simone Melzi, Giuseppe Patanè, Emanuele Rodolà and Maks Ovsjanikov.
+This repository contains the code for the paper ["Wavelet-based Heat Kernel Derivatives: towards Informative Localized Shape Analysis"](https://arxiv.org/abs/2007.11632) by Maxime Kirgo, Simone Melzi, Giuseppe Patanè, Emanuele Rodolà and Maks Ovsjanikov.
 
 In this paper, we propose a new construction for the Mexican hat wavelets on shapes with applications to partial shape matching. Our approach takes its main inspiration from the well-established methodology of diffusion wavelets. This novel construction allows us to rapidly compute a multiscale family of Mexican hat wavelet functions, by approximating the derivative of the heat kernel. We demonstrate that this leads to a family of functions that inherit many attractive properties of the heat kernel (e.g., local support, ability to recover isometries from a single point, efficient computation).
 
