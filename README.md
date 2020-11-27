@@ -10,7 +10,7 @@ In this paper, we propose a new construction for the Mexican hat wavelets on sha
 
 Main Functions
 --------------
-```
+```matlab
 M = compute_normalized_shape(path_to_off_file, boundary_condition, normalization_factor);
 
 % Input:
@@ -21,7 +21,7 @@ M = compute_normalized_shape(path_to_off_file, boundary_condition, normalization
 % Output:
 %   M: the mesh structure.
 ```
-```
+```matlab
 [sampM,sampN,sample_idx] = compute_samples_from_landmarks(N,nSamples,landmarks_M,landmarks_N,sampling_method);
 
 % Input:
@@ -36,7 +36,7 @@ M = compute_normalized_shape(path_to_off_file, boundary_condition, normalization
 %   sampN: list of nSamples on the shape N.
 %   sample_idx: list of indices that were used in landmarks_N.
 ```
-```
+```matlab
 [scales_M,scales_N,scales_other_M,scales_other_N] = compute_scales(M,N,nScales,ts_GT_max);
 
 % Input:
@@ -51,7 +51,7 @@ M = compute_normalized_shape(path_to_off_file, boundary_condition, normalization
 %   scales_other_M: alternative list of scales for shape M.
 %   scales_other_N: alternative list of scales for shape N.
 ```
-```
+```matlab
 dict_M = compute_wavelet_dict(M,sampM,scales_M);
 
 % Input:
@@ -80,7 +80,7 @@ Acknowledgments
 Citation
 --------
 If this code contributes to academic work, please cite:
-```
+```bib
 @inproceedings{kirgo2020wavelet,
   title={Wavelet-based Heat Kernel Derivatives: Towards Informative Localized Shape Analysis},
   author={Kirgo, Maxime and Melzi, Simone and Patan{\`e}, Giuseppe and Rodol{\`a}, Emanuele and Ovsjanikov, Maks},
