@@ -71,6 +71,12 @@ Comments
 - If you have any question/comment about this work, please feel free to contact us: maximekirgo@gmail.com.
 
 
+Acknowledgements
+----------------
+This work was funded by EDF R&D and the ANRT as part of the CIFRE grant 2019/0433.
+The ```+MESH``` module was developped by [Jing Ren](https://github.com/llorz).
+The ```bc``` and ```bd``` modules were developped by [Emanuele Rodolà](https://sites.google.com/site/erodola/).
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). For any commercial uses or derivatives, please contact us (maximekirgo@gmail.com, melzismn@gmail.com, patane@ge.imati.cnr.it, rodola@di.uniroma1.it, maks@lix.polytechnique.fr).
