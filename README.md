@@ -77,6 +77,19 @@ Acknowledgments
 - The ```+MESH``` module was developped by [Jing Ren](https://github.com/llorz).
 - The ```bc``` and ```bd``` modules were developped by [Emanuele Rodolà](https://sites.google.com/site/erodola/).
 
+Citation
+--------
+If this code contributes to academic work, please cite:
+```
+@inproceedings{kirgo2020wavelet,
+  title={Wavelet-based Heat Kernel Derivatives: Towards Informative Localized Shape Analysis},
+  author={Kirgo, Maxime and Melzi, Simone and Patan{\`e}, Giuseppe and Rodol{\`a}, Emanuele and Ovsjanikov, Maks},
+  booktitle={Computer Graphics Forum},
+  year={2020},
+  organization={Wiley Online Library}
+}
+```
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). For any commercial uses or derivatives, please contact us (maximekirgo@gmail.com, melzismn@gmail.com, patane@ge.imati.cnr.it, rodola@di.uniroma1.it, maks@lix.polytechnique.fr).
